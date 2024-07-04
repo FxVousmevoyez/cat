@@ -1,0 +1,74 @@
+{
+  "name": "Pro cat icon",
+  "description": "Pro cat 图标订阅",
+  "icons": [
+    {
+      "name": "Hudie-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Hudie-01.png"
+    },
+    {
+      "name": "Hudie-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Hudie-02.png"
+    },
+    {
+      "name": "cat-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-01.png"
+    },
+    {
+      "name": "cat-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-02.png"
+    },
+    {
+      "name": "cat-03",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-03.png"
+    },
+    {
+      "name": "cat-04",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-04.png"
+    },
+    {
+      "name": "cat-05",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-05.png"
+    },
+    {
+      "name": "cat-06",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-06.png"
+    },
+    {
+      "name": "cat-07",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-07.png"
+    },
+    {
+      "name": "cat-08",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/cat-08.png"
+    },
+    {
+      "name": "Shmily",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Shmily.png"
+    },
+    {
+      "name": "x",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/x.png"
+    },
+    {
+      "name": "xian-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xian-01.png"
+    },
+    {
+      "name": "xian-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xian-02.png"
+    },
+    {
+      "name": "Yuan-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yuan-01.png"
+    },
+    {
+      "name": "Yuan-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yuan-02.png"
+    },
+    {
+      "name": "Yuan-03",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yuan-03.png"
+    }
+  ]
+}
