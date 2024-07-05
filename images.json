@@ -1,6 +1,6 @@
 {
-  "name": "Pro cat icon",
-  "description": "Pro cat 图标订阅",
+  "name": "cat icon",
+  "description": "cat 图标订阅",
   "icons": [
     {
       "name": "Hudie-01",
@@ -181,6 +181,30 @@
     {
       "name": "surge-pro",
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/surge-pro.png"
+    },
+        {
+      "name": "ai2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/ai2.png"
+    },
+    {
+      "name": "Dubai",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Dubai.png"
+    },
+    {
+      "name": "Dubai2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Dubai2.png"
+    },
+    {
+      "name": "NR1",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/NR1.png"
+    },
+    {
+      "name": "NR2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/NR2.png"
+    },
+    {
+      "name": "NR3",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/NR3.png"
     }
   ]
 }
