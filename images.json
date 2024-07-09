@@ -43,6 +43,14 @@
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/surge-pro.png"
     },
     {
+      "name": "Yan01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yan01.png"
+    },
+    {
+      "name": "Yan02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yan02.png"
+    },
+    {
       "name": "ai2",
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/ai2.png"
     },
@@ -173,14 +181,6 @@
     {
       "name": "tutu04",
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/tutu04.png"
-    },
-    {
-      "name": "Yan01",
-      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yan01.png"
-    },
-    {
-      "name": "Yan02",
-      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Yan02.png"
     }
   ]
 }
