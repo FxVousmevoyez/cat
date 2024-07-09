@@ -181,6 +181,18 @@
     {
       "name": "tutu04",
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/tutu04.png"
+    },
+    {
+      "name": "xuehua-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xuehua-01.png"
+    },
+    {
+      "name": "xuehua-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xuehua-02.png"
+    },
+    {
+      "name": "fly",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/fly.png"
     }
   ]
 }
