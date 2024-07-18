@@ -1,0 +1,170 @@
+{
+  "name": "Custom Icon Set",
+  "description": "Custom Icon Set",
+  "icons": [
+    {
+      "name": "Girl01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Girl01.png"
+    },
+    {
+      "name": "Girl02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Girl02.png"
+    },
+    {
+      "name": "Girl03",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Girl03.png"
+    },
+    {
+      "name": "Girl04",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Girl04.png"
+    },
+    {
+      "name": "Girl05",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Girl05.png"
+    },
+    {
+      "name": "Loon1",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Loon1.png"
+    },
+    {
+      "name": "Loon2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Loon2.png"
+    },
+    {
+      "name": "Loon3",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Loon3.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Surge.png"
+    },
+    {
+      "name": "Redgirl-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Redgirl-01.png"
+    },
+    {
+      "name": "Redgirl-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Redgirl-02.png"
+    },
+    {
+      "name": "Redgirl-03",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Redgirl-03.png"
+    },
+    {
+      "name": "xuehua-01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xuehua-01.png"
+    },
+    {
+      "name": "xuehua-02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/xuehua-02.png"
+    },
+    {
+      "name": "Anquan1",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Anquan1.png"
+    },
+    {
+      "name": "Anquan2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Anquan2.png"
+    },
+    {
+      "name": "Anquan3",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Anquan3.png"
+    },
+    {
+      "name": "Apple04",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Apple04.png"
+    },
+    {
+      "name": "Fake",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Fake.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Google.png"
+    },
+    {
+      "name": "Gpt01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Gpt01.png"
+    },
+    {
+      "name": "Gpt02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Gpt02.png"
+    },
+    {
+      "name": "Ins",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Ins.png"
+    },
+    {
+      "name": "My",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/My.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Netflix.png"
+    },
+    {
+      "name": "On-off",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/On-off.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Spotify.png"
+    },
+    {
+      "name": "Spotify2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Spotify2.png"
+    },
+    {
+      "name": "Spotify3",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Spotify3.png"
+    },
+    {
+      "name": "Tiktok01",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Tiktok01.png"
+    },
+    {
+      "name": "Tiktok02",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Tiktok02.png"
+    },
+    {
+      "name": "Tiktok03",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Tiktok03.png"
+    },
+    {
+      "name": "Wuxian",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Wuxian.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/YouTube.png"
+    },
+    {
+      "name": "YouTube2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/YouTube2.png"
+    },
+    {
+      "name": "bk1",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk1.png"
+    },
+    {
+      "name": "bk2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk2.png"
+    },
+    {
+      "name": "bk3",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk3.png"
+    },
+    {
+      "name": "Nuo",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/Nuo.png"
+    },
+    {
+      "name": "usa1",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/usa1.png"
+    },
+    {
+      "name": "usa2",
+      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/usa2.png"
+    }
+  ]
+}
