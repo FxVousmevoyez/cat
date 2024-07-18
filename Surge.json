@@ -1,5 +1,5 @@
 {
-  "name": "Custom Icon Set",
+  "name": "All Icon",
   "description": "Custom Icon Set",
   "icons": [
     {
@@ -141,18 +141,6 @@
     {
       "name": "YouTube2",
       "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/YouTube2.png"
-    },
-    {
-      "name": "bk1",
-      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk1.png"
-    },
-    {
-      "name": "bk2",
-      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk2.png"
-    },
-    {
-      "name": "bk3",
-      "url": "https://raw.githubusercontent.com/FxVousmevoyez/cat/main/images/bk3.png"
     },
     {
       "name": "Nuo",
